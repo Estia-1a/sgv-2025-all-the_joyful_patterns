@@ -261,3 +261,16 @@ body {
     margin-bottom: 10px; 
 
 } 
+.review-card { 
+
+    flex: 1; /* Prend une part égale de l'espace */ 
+
+    border: 1px solid #ccc; 
+
+    padding: 15px; 
+
+    text-align: left; 
+
+    min-height: 80px; /* Pour simuler les lignes de texte du wireframe */ 
+
+} 
