@@ -91,3 +91,21 @@ body {
 .banner::before {
     transform: rotate(45deg);
 }
+
+.banner::after { 
+
+    transform: rotate(-45deg); 
+
+} 
+
+ 
+
+.catchphrase { 
+
+    text-align: left; 
+
+    margin-bottom: 20px; 
+
+    font-style: italic; 
+
+} 
