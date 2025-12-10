@@ -109,3 +109,30 @@ body {
     font-style: italic; 
 
 } 
+.search-form { 
+
+    display: flex; 
+
+    gap: 10px; 
+
+    align-items: center; 
+
+    border: 1px solid #ccc; 
+
+    padding: 10px; 
+
+    margin-bottom: 40px; 
+
+} 
+
+ 
+
+.search-form input { 
+
+    padding: 8px; 
+
+    border: 1px solid #aaa; 
+
+    flex-grow: 1; 
+
+}
