@@ -231,3 +231,12 @@ body {
     cursor: pointer; 
 
 } 
+
+.scroll-indicator {
+    height: 5px;
+    width: 50px;
+    background-color: #ccc;
+    margin: 10px auto 40px auto;
+    border-radius: 3px;
+    
+}
