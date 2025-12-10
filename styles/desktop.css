@@ -274,3 +274,12 @@ body {
     min-height: 80px; /* Pour simuler les lignes de texte du wireframe */ 
 
 } 
+
+.voir-plus-link {
+    display: block;
+    text-align: right;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
