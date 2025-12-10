@@ -196,3 +196,38 @@ body {
     flex-shrink: 0; /* Empêche les cartes de se réduire */ 
 
 } 
+.route-card h3 { 
+
+    margin-top: 0; 
+
+    font-size: 1.1em; 
+
+} 
+
+ 
+
+.route-card p { 
+
+    font-size: 0.9em; 
+
+    color: #666; 
+
+    margin: 5px 0; 
+
+} 
+
+ 
+
+.route-card .btn-voir { 
+
+    margin-top: 10px; 
+
+    padding: 5px 15px; 
+
+    background-color: #eee; 
+
+    border: 1px solid #333; 
+
+    cursor: pointer; 
+
+} 
