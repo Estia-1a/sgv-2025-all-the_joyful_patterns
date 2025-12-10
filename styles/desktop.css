@@ -80,25 +80,6 @@ body {
 
 } 
 
-.banner::before, .banner::after {
-    content: '';
-    position: absolute;
-    width: 90%;
-    height: 2px;
-    background: #555;
-}
-
-.banner::before {
-    transform: rotate(45deg);
-}
-
-.banner::after { 
-
-    transform: rotate(-45deg); 
-
-} 
-
- 
 
 .catchphrase { 
 
