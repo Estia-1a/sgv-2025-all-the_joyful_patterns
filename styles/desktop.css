@@ -13,3 +13,18 @@ body {
     padding: 20px;
 }
 
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f0f0f0; /* Couleur claire pour la barre */
+    border-bottom: 1px solid #ccc;
+}
+
+.navbar .logo {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+
