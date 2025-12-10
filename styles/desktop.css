@@ -154,3 +154,45 @@ body {
 .popular-routes-section h2 {
     margin-bottom: 15px;
 }
+
+
+
+.routes-container { 
+
+    display: flex; 
+
+    gap: 20px; 
+
+    overflow-x: auto; /* Permet le défilement horizontal */ 
+
+    padding-bottom: 20px; 
+
+    scrollbar-width: none; /* Cache la scrollbar par défaut pour certains navigateurs */ 
+
+} 
+
+ 
+
+/* Pour cacher la scrollbar sur Chrome/Safari */ 
+
+.routes-container::-webkit-scrollbar { 
+
+    display: none; 
+
+} 
+
+ 
+
+.route-card { 
+
+    min-width: 180px; /* Largeur de la carte de trajet */ 
+
+    border: 1px solid #ccc; 
+
+    padding: 15px; 
+
+    text-align: center; 
+
+    flex-shrink: 0; /* Empêche les cartes de se réduire */ 
+
+} 
