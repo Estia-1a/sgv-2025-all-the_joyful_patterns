@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* Fond blanc */
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1000px; /* Largeur similaire à celle de la maquette */
+    margin: 0 auto;
+    padding: 20px;
+}
+
